@@ -1,19 +1,6 @@
 
 # 👋 Hi, I'm Joel Mathew
 
-<a href="https://www.linkedin.com/in/joel-mathew-095642296/">
-  <img align="left" alt="Joel Mathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.root-me.org/larenmat">
-  <img align="left" alt="Joel Mathew | Root-Me" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rootme.svg" />
-</a>
-<a href="mailto:jooeel777@gmail.com">
-  <img align="left" alt="Joel Mathew | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br/>
-<br/>
-
 🔒 **Cybersecurity Analyst & Software Developer** bridging the gap between secure software development and proactive cyber defense. Currently pursuing my Master's in Computer Applications while working as a Cyber Security Analyst Intern at SwiftSafe.
 
 I specialize in building ML-driven security tools, deploying enterprise SIEM solutions, and breaking things legally to make them safer.
